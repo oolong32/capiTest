@@ -1,1 +1,5 @@
 **/*.swp
+Capfile
+config/
+lib/
+log/
